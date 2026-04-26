@@ -16,7 +16,7 @@
 
 ## About me
 
-Customer-focused professional with 3+ years remote / hybrid working in regulated banking environments (Quality Analyst, Fraud Advisor at Lloyds / Firstsource). Self-taught full-stack builder in my own time.
+Customer-focused professional with 3+ years remote / hybrid working in regulated banking environments (Quality Analyst, currently Fraud Advisor). Self-taught full-stack builder in my own time.
 
 I run a production web application with real users that I designed, built, deployed, and operate single-handedly - which means I've also been the one debugging it at 2 a.m. when something breaks. That experience is what I want to bring to a dedicated IT Support role.
 
