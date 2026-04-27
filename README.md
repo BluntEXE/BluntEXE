@@ -49,7 +49,7 @@ What it covers, beyond just "I shipped a web app":
 
 ## Currently working on
 
-- 📚 Studying for **CompTIA A+** (then Network+, then Security+)
+- 📚 Studying the **Google IT Support Professional Certificate** (then CompTIA A+, Network+, Security+)
 - 🔧 Maintaining and supporting users of [xivvenuemanager.com](https://xivvenuemanager.com)
 - 💼 Open to First Line IT Support roles in the UK (remote or South Wales)
 
