@@ -11,7 +11,7 @@
     <img alt="Live site" src="https://img.shields.io/badge/live-xivvenuemanager.com-success">
   </a>
   <img alt="Location" src="https://img.shields.io/badge/UK-Wales-blue">
-  <img alt="Status" src="https://img.shields.io/badge/seeking-First_Line_IT_Support-orange">
+  <img alt="Status" src="https://img.shields.io/badge/seeking-IT_Roles-orange">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 Customer-focused professional with 3+ years remote / hybrid working in regulated banking environments (Quality Analyst, currently Fraud Advisor). Self-taught full-stack builder in my own time.
 
-I run a production web application with real users that I designed, built, deployed, and operate alone - which means I've also been the one debugging it at 2 a.m. when something breaks. That experience is what I want to bring to a dedicated IT Support role.
+I run a production web application with real users that I designed, built, deployed, and operate alone - which means I've also been the one debugging it at 2 a.m. when something breaks. I'm looking to turn that into a career in IT, whether that's infrastructure, networking, software, or hardware. I want a real foothold with a clear progression path, not just a job title.
 
 ## Featured project
 
@@ -53,7 +53,7 @@ What it covers, beyond just "I shipped a web app":
 
 - 📚 Studying the **Google IT Support Professional Certificate** (then CompTIA A+, Network+, Security+)
 - 🔧 Maintaining and supporting users of [xivvenuemanager.com](https://xivvenuemanager.com)
-- 💼 Open to First Line IT Support roles in the UK (remote or South Wales)
+- 💼 Open to IT roles in the UK - infrastructure, networking, software, hardware (remote or South Wales)
 
 ## How to reach me
 
