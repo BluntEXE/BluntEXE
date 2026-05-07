@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Piran 👋</h1>
 
+<p align="center"><em>Known as <strong>Ehno</strong> in the FFXIV community</em></p>
+
 <p align="center">
   <em>Self-taught full-stack builder · IT Support candidate · UK</em>
 </p>
@@ -18,7 +20,7 @@
 
 Customer-focused professional with 3+ years remote / hybrid working in regulated banking environments (Quality Analyst, currently Fraud Advisor). Self-taught full-stack builder in my own time.
 
-I run a production web application with real users that I designed, built, deployed, and operate single-handedly - which means I've also been the one debugging it at 2 a.m. when something breaks. That experience is what I want to bring to a dedicated IT Support role.
+I run a production web application with real users that I designed, built, deployed, and operate alone - which means I've also been the one debugging it at 2 a.m. when something breaks. That experience is what I want to bring to a dedicated IT Support role.
 
 ## Featured project
 
@@ -45,7 +47,7 @@ What it covers, beyond just "I shipped a web app":
 
 **Other:** C# / .NET (game-client plugin) · Bash · SQL
 
-**Home lab:** Proxmox VE · OpenWRT · Pi-hole · Home Assistant · Plex / Jellyfin
+**Home lab:** Proxmox VE · Pi-hole · Home Assistant · Plex / Jellyfin · evaluating UniFi
 
 ## Currently working on
 
