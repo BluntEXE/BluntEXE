@@ -27,15 +27,15 @@ I run a production web application with real users that I designed, built, deplo
 A live venue management platform for a Final Fantasy XIV community. Two parts: a Next.js web dashboard and a C# game-client plugin that captures in-game events and syncs them to the dashboard for analytics and payroll. Around 24,400 lines of code total, solo-built since December 2025.
 
 What it covers, beyond just "I shipped a web app":
-- **Operations:** self-hosted Linux box, 5-container Docker Compose stack, TLS, DNS, firewall, SSH-key-only access
-- **Security:** full audit (18 findings, fixed across all severity tiers), rate limiting, hashed API keys, OAuth, dependency vulnerability scanning in CI
+- **Operations:** self-hosted Linux box, 6-container Docker Compose stack, TLS, DNS, firewall, SSH-key-only access
+- **Security:** full audit (18 findings, all fixed), nonce-based CSP, rate limiting, hashed API keys, OAuth, dependency vulnerability scanning in CI
 - **Reliability:** monitoring + log triage + incident response on my own production system
 - **User support:** I support the people using the platform, triaging bugs through to deployed fixes
 
 📄 **[Read the engineering case study →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/CASE_STUDY.md)**
-🏗️ **[Architecture deep-dive →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/docs/engineering/architecture.md)**
-🔒 **[Security writeup →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/docs/engineering/security.md)**
-📈 **[Scaling notes →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/docs/engineering/scaling.md)**
+🏗️ **[Architecture deep-dive →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/apps/web/docs/engineering/architecture.md)**
+🔒 **[Security writeup →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/apps/web/docs/engineering/security.md)**
+📈 **[Scaling notes →](https://github.com/BluntEXE/ffxiv-venue-manager/blob/main/apps/web/docs/engineering/scaling.md)**
 
 ## Tech I use day-to-day
 
