@@ -40,7 +40,7 @@ A venue management platform for a Final Fantasy XIV community. Next.js web dashb
 
 ### [FFXIV Shout Crafter](https://shout.xivvenuemanager.com)
 
-A public tool for FFXIV venue operators to generate `/shout` advertisement commands from Partake event URLs or Discord posts. Parses a dozen format variants (DJ slot styles, GMT time zones, decorated venue names) using a regex pipeline, then lets operators pick which fields to import or keep. Cross-origin auth via shared session cookie lets XIV Venue Manager users save and reload shout templates. Built with Vite, React, TypeScript, and Tailwind.
+A public tool for FFXIV venue operators to generate `/shout` advertisement commands from Partake event URLs or Discord posts. Parses a dozen format variants (DJ slot styles, time zones, decorated venue names) using a regex pipeline, then lets operators pick which fields to import or keep. Cross-origin auth via shared session cookie lets XIV Venue Manager users save and reload shout templates. Built with Vite, React, TypeScript, and Tailwind.
 
 ---
 
