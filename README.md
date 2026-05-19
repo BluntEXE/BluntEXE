@@ -24,7 +24,7 @@
 
 ### [XIV Venue Manager](https://github.com/BluntEXE/ffxiv-venue-manager) · [xivvenuemanager.com](https://xivvenuemanager.com)
 
-A venue management platform for a Final Fantasy XIV community. Next.js web dashboard paired with a C# game-client plugin that captures in-game events and syncs them to the dashboard for analytics and payroll. ~24,400 lines, solo-built since December 2025.
+A venue management platform for a Final Fantasy XIV community. Next.js web dashboard, Android companion app, and a C# game-client plugin that captures in-game events and syncs them to the dashboard for analytics and payroll. ~40,000 lines, solo-built since December 2025.
 
 - **Operations:** self-hosted Linux box, 7-container Docker Compose stack, TLS, DNS, firewall, SSH-key-only access
 - **Security:** full audit (18 findings, all fixed), nonce-based CSP, rate limiting, hashed API keys, OAuth, CI vulnerability scanning
@@ -56,7 +56,7 @@ A public tool for FFXIV venue operators to generate `/shout` advertisement comma
 
 ## Currently working on
 
-- 📚 **Google IT Support Professional Certificate** (then CompTIA A+, Network+, Security+)
+- 📚 **Google Cybersecurity Professional Certificate** (Coursera, in progress - IT Support completed)
 - 🔧 Maintaining [xivvenuemanager.com](https://xivvenuemanager.com) and its users
 - 💼 Open to IT roles in the UK - remote or South Wales
 
