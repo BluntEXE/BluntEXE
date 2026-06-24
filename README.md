@@ -24,7 +24,7 @@
 
 ### [XIV Venue Manager](https://github.com/BluntEXE/ffxiv-venue-manager) · [xivvenuemanager.com](https://xivvenuemanager.com)
 
-A venue management platform for a Final Fantasy XIV community. Next.js web dashboard, Android companion app, and a C# game-client plugin that captures in-game events and syncs them to the dashboard for analytics and payroll. ~40,000 lines, solo-built since December 2025.
+A venue management platform for a Final Fantasy XIV community. Next.js web dashboard, Android companion app, and a C# game-client plugin that captures in-game events and syncs them to the dashboard for analytics and payroll. ~115,000 lines (109k TS · 5.7k C#), solo-built since December 2025.
 
 - **Operations:** self-hosted Linux box, 7-container Docker Compose stack, TLS, DNS, firewall, SSH-key-only access
 - **Security:** full audit (18 findings, all fixed), nonce-based CSP, rate limiting, hashed API keys, OAuth, CI vulnerability scanning
@@ -38,9 +38,32 @@ A venue management platform for a Final Fantasy XIV community. Next.js web dashb
 
 ---
 
+### [Starfall Studio](https://github.com/BluntEXE/StarfallStudio)
+
+GPose toolkit for FFXIV. Actor posing, animation, camera, and scene composition in one Dalamud plugin. ~52,000 lines of C#, v0.2.33, actively maintained.
+
+- **Actors:** click-to-select list, world-space transform gizmo, NPC and overworld actor import into GPose
+- **Appearance:** MCDF import via Penumbra + Glamourer IPC, NPC appearance import, wetness depth editor
+- **Camera:** freecam (WASD + mouse look), angle/pan/FoV editor, zoom delimit, multi-camera support
+- **World:** weather, time of day, sky/cloud/star editor, festival flags, environment effects
+- **Formats:** Brio-compatible `.pose` files, `.starscn` scenes, `.starproj` projects
+
+---
+
 ### [FFXIV Shout Crafter](https://shout.xivvenuemanager.com)
 
 A public tool for FFXIV venue operators to generate `/shout` advertisement commands from Partake event URLs or Discord posts. Parses a dozen format variants (DJ slot styles, time zones, decorated venue names) using a regex pipeline, then lets operators pick which fields to import or keep. Cross-origin auth via shared session cookie lets XIV Venue Manager users save and reload shout templates. Built with Vite, React, TypeScript, and Tailwind.
+
+---
+
+### [XIV Admin](https://github.com/BluntEXE/xiv-admin)
+
+Terminal admin dashboard for xivvenuemanager.com. Ops tooling for a solo-run production system. ~16,000 lines of Python.
+
+- **Stats:** live venue/user/shift counts, auto-refresh every 30s
+- **Ops:** Docker container status, log tailing, deploy trigger with streamed output
+- **Monitoring:** SSL cert expiry across all subdomains, GlitchTip error feed, Resend email log
+- **Health:** MinIO, Partake, Discord, Cloudflare integration pings
 
 ---
 
